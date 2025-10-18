@@ -1,1 +1,1 @@
-Strugling to learn 
+Struggling to learn 
