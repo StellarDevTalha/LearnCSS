@@ -1,1 +1,2 @@
-Struggling to learn CSS
+# Struggling to learn CSS
+# Basics done 
